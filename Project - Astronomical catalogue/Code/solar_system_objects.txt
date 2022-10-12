@@ -1,0 +1,5 @@
+planet, Mercury, test_experiment, 6.92, 1.65e-7, 2.67e-6, 2022 05 21 15 34, hms 3 56 06.8, dms 19 9 59
+planet, Venus, test_experiment, -3.99, 2.44e-6, 5.56e-6, 2022 05 21 15 37 55, hms 1 22 52.8, dms 6 37 50
+planet, Mars, test_experiment, 0.62, 3.21e-7, 7.34e-6, 2022 05 21 15 38 50, hms 23 53 2, dms -2 36 2
+asteroid, Ceres, test_experiment, 8.91, 4.69e-10, 1.66e-5, 2022 5 21 15 39 36, hms 6 10 55, dms 26 45 28
+comet, Halley, test_experiment, 30.97, 1.1e-16, 1.72e-4, 2022 5 21 15 40 22, hms 8 14 58, dms 3 3 15
