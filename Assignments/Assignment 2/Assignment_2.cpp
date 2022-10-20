@@ -1,5 +1,6 @@
 // Object-Oriented Programming in C++
 // Assignment 2
+// Reads a file containing course data (courselist.dat) and outputs mean, standard deviation and standard error in mean.
 // Timothe Rhein - 27/2/2022
 
 #include <iostream>

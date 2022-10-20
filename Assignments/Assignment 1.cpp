@@ -1,5 +1,7 @@
 // Object-Oriented Programming in C++
 // Assignment 1
+// Calculates photon energies for transitions between atomic energy levels. The user chooses the atomic number 
+// and the initial and final principal quantum number.
 // Timothe Rhein - 18/2/2022
 
 #include <iostream>
